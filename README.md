@@ -1,5 +1,5 @@
 # Where Do You Belong?
-## Clustering Algorithms for CO2 Flooding Project Segmentation
+### Clustering Algorithms for CO2 Flooding Project Segmentation
 
 ## Objective
 Applied unsupervised learning techniques to organize global CO2 flooding projects into clusters. Those clusters were used to identify projects that share a similar set of reservoir and fluid parameters. Characteristics and performances of these analogous projects can be used to identify processes and decisions applicable to all. This will enhance operational and technical planning decisions in new or current CO2 flooding projects at field and well levels .
@@ -17,7 +17,7 @@ The information will be used to categorize global CO2 flooding projects into clu
 * Unsupervised clustering
 * Model comparison
 
-# Publication
+## Publication
 This is the code base for my published journal review paper 
 Olukoga, T. A., & Feng, Y. (2021). Determination of miscible CO2 flooding analogue projects with machine learning. Journal of Petroleum Science and Engineering, 109826.
 https://doi.org/10.1016/j.petrol.2021.109826
