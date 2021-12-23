@@ -19,5 +19,5 @@ The information will be used to categorize global CO2 flooding projects into clu
 
 ## Publication
 This is the code base for my published journal review paper 
-Olukoga, T. A., & Feng, Y. (2021). Determination of miscible CO2 flooding analogue projects with machine learning. Journal of Petroleum Science and Engineering, 109826.
+> Olukoga, T. A., & Feng, Y. (2021). Determination of miscible CO2 flooding analogue projects with machine learning. Journal of Petroleum Science and Engineering, 109826.
 https://doi.org/10.1016/j.petrol.2021.109826
