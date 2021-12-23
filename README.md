@@ -1,2 +1,4 @@
-# Clustering_Comparison
-Compared several clustering methods and included evaluation when ground truth was both known and unknown
+# Where Do You Belong?
+## Clustering Algorithms to for CO2 Flooding Project Segmentation
+
+
